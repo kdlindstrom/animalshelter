@@ -1,5 +1,5 @@
 p {
-
+  float: left;
   color: red;
 }
 
@@ -15,3 +15,15 @@ img{
 #puppy3 {
   color: blue;
 }
+
+h1.puppyname {
+  color: yellow;
+}
+ p.description1 {
+   color:blue;
+   float: left;
+ }
+ p.description2 {
+   color:green;
+   float: left;
+ }
